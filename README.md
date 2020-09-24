@@ -1,4 +1,4 @@
-# DFS-BFS
+# Greedy Best-First Search
 
 ## :triangular_flag_on_post: Tentang repo
 Repo ini berisi kode program dalam bahasa python yang menerapkan penggunaan algoritma Greedy Best-First Search dalam permasalahan mencari jalur dari titik A ke titik B dalam labirin.
